@@ -1,4 +1,4 @@
-package fr.cubycraft.mcnib.inventory;
+package fr.nirbose.mcnib.inventory;
 
 import net.kyori.adventure.text.Component;
 import org.bukkit.Bukkit;

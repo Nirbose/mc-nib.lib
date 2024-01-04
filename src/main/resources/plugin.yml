@@ -1,4 +1,4 @@
 name: mc-nib.lib
 version: '${project.version}'
-main: fr.cubycraft.mcnib.Main
+main: fr.nirbose.mcnib.Main
 api-version: '1.20'

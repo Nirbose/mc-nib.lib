@@ -1,4 +1,4 @@
-package fr.cubycraft.mcnib;
+package fr.nirbose.mcnib;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
