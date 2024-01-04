@@ -1,0 +1,4 @@
+name: mc-nib.lib
+version: '1.0-SNAPSHOT'
+main: fr.nirbose.mcnib.Main
+api-version: '1.20'

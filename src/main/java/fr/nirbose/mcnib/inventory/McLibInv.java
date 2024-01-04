@@ -26,7 +26,7 @@ public class McLibInv implements InventoryHolder {
     }
 
     public McLibInv(String title, int size) {
-        this(owner -> Bukkit.createInventory(owner, size, Component.text(title)));
+        this(owner -> Bukkit.createInventory(owner, size, title));
     }
 
     public McLibInv(Function<InventoryHolder, Inventory> function) {
